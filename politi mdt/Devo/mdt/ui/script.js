@@ -3,7 +3,7 @@ const mdtApp = new Vue({
     data: {
         page: "Home",
         officer: {
-            name: "Guest"
+            name: ""
         },
 
         offenses: [],
